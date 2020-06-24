@@ -1,0 +1,16 @@
+{
+  "name": "creatorjs",
+  "version": "0.0.1",
+  "description": "A Simple JS Library To Simplify Your Work By Shortening Simple Functions And Putting Algorithms Right On Your Feet",
+  "main": "Main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "creatorjs"
+  ],
+  "author": "Aryan Thakur",
+  "license": "ISC"
+}
